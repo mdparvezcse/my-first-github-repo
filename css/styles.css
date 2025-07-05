@@ -9,3 +9,10 @@ li{
     font-size: 20px;
     color: darkblue;
 }
+header{
+    background-color: lightblue;
+    padding: 10px;
+    text-align: center;
+    text-align: left;
+    width: 30%;
+}
